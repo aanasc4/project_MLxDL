@@ -184,7 +184,7 @@ Este resultado explica por que:
 - [ ] **Mais épocas** - Treinamento mais longo com paciência
 - [ ] **Ensemble de modelos** - Combinar múltiplas CNNs
 
-## 👨‍💻 Autor
+## 👨‍💻 Autora
 
 **Aline Acioly Nascimento**
 - GitHub: [@aanasc4](https://github.com/aanasc4)
